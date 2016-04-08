@@ -1,0 +1,14 @@
+{
+  "name": "left-sad",
+  "version": "1.0.0",
+  "description": "Like left pad's sad cousin",
+  "main": "index.js",
+  "scripts": {
+    "test": "text.js"
+  },
+  "keywords": [
+    "sad"
+  ],
+  "author": "zonika",
+  "license": "ISC"
+}
