@@ -4,11 +4,19 @@
   "description": "Like left pad's sad cousin",
   "main": "index.js",
   "scripts": {
-    "test": "text.js"
+    "test": "node test"
+  },
+  "devDependencies": {
+    "tape": "*"
   },
   "keywords": [
-    "sad"
+    "sad",
+    "sadness"
   ],
+  "repository": {
+    "url": "git@github.com:zonika/left-sad.git",
+    "type": "git"
+  },
   "author": "zonika",
   "license": "ISC"
 }
