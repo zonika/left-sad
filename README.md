@@ -13,7 +13,7 @@ $ npm install left-sad
 ## Usage
 
 ```js
-leftSad = require('left-sad');
+var leftSad = require('left-sad');
 
 leftSad(' me', 6);
 // => sadsadsadsadsadsad me
